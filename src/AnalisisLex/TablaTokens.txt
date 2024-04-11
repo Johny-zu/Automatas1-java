@@ -1,0 +1,2 @@
+Lexema              Token  Pos. en tabla     Número de línea
+ ;                     -75     -1                1   
