@@ -1,4 +1,4 @@
-package AnalisisE;
+package AnalisisSin;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
